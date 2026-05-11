@@ -65,5 +65,5 @@ I am focused on building deployable finance and AI systems that combine research
 ## Links
 
 - GitHub: [@LaZe-dino](https://github.com/LaZe-dino)
-- LinkedIn: available on my resume
+- LinkedIn: [available on my resume](https://www.linkedin.com/in/aditya-sharma-67a545252/)
 - Resume: [Aditya_Sharma_Resume.pdf](./Aditya_Sharma_Resume.pdf)
